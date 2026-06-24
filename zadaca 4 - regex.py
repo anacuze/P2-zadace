@@ -1,6 +1,6 @@
 import re
 
-regex = r"^M(?=.*[0-5])(?=.*\s).*T$"
+regex = r"^A(?=.*[0-5])(?=.*\s).*C$"
 
 tekst = input("Unesi string: ")
 
