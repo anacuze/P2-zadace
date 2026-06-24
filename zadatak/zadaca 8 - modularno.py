@@ -1,4 +1,3 @@
-
 from modul import ispisi_unazad
 
 tekst = input("Unesi tekst: ")
